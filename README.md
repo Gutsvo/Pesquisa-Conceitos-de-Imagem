@@ -24,4 +24,4 @@ Gustavo da Silva Rezende e Daniel Ryu
 
 #### Pegando um exemplo do modo RGB: o sensor da câmera capta a luz, separa os canais vermelho, verde e azul e traduz a luminância de cada um que chegou até ele para código binário (zeros e uns). É a quantidade de código binário gerado pelo sensor é a que vai determinar a variação de tonalidades que aquele arquivo tem.
 
-<img src="img/colorCode.jpg" width="100" height="200">
+<img src="img/colorCode.png" width="100" height="200">
