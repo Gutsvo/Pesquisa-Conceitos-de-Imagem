@@ -20,8 +20,16 @@ Gustavo da Silva Rezende e Daniel Ryu
 
 #### A fonte de luz de um monitor ou tela pode criar qualquer cor que você possa imaginar com a combinação de diferentes tonalidades de vermelho, verde e azul. Os nossos olhos são capazes de identificar cerca de 1 milhão de cores que terão suas variações de ondas percebidas pelo cérebro. Entretanto, o que é mais curioso é que essa enorme quantidade tons deriva de apenas 12 classificadas como primárias, secundárias e terciárias. Elas fazem parte do círculo cromático.
 
-## Densidade das Cores através do Bits
+## Densidade das cores através do Bits:
 
 #### Pegando um exemplo do modo RGB: o sensor da câmera capta a luz, separa os canais vermelho, verde e azul e traduz a luminância de cada um que chegou até ele para código binário (zeros e uns). É a quantidade de código binário gerado pelo sensor é a que vai determinar a variação de tonalidades que aquele arquivo tem.
 
-<img src="img/colorCode.png" width="150" height="200">
+<img src="img/colorCode.png" width="155" height="200">
+
+#### Agora, se a cor vermelha pudesse ser representada por um código binário de 2 bits, isto é, duas unidades (0-0, 0-1,1-0 ou 1-1), você teria quatro tonalidades de vermelho, sendo 0-0 a ausência dele e 1-1 a presença total, e os demais seriam outras variações da cor.
+
+## Modelos de cores em Imagens Digitais:
+
+1. RGB: O modelo de cores RGB é um sistema de cores aditivo (as cores são formadas adicionando luz a cada uma das cores intervenientes no processo)., inspirado na teoria de visão colorida tricromática e tem como base as cores: vermelho, verde e azul. Este modelo pode produzir até 16,7 milhões de cores. Este é o modelo mais usado e conhecido.
+2. CMKY:
+3. LAB:
