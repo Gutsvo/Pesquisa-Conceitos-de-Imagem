@@ -14,9 +14,14 @@ Gustavo da Silva Rezende e Daniel Ryu
 
 #### Há dois tipos fundamentais de imagem digital. Uma é do tipo rastreio (raster) e outra do tipo vetorial. Uma imagem digital do tipo raster, é aquela que em algum momento apresenta uma correspondência bit-a-bit entre os pontos da imagem raster e os pontos da imagem reproduzida na tela de um monitor. A imagem vetorial não é reproduzida necessariamente por aproximação de pontos, antes era destinada a ser reproduzida por plotters de traçagem que reproduziam a imagem por deslocamento de canetas-tinteiro.
 
-<img src="img/raster.jpg" width="200" height="200"> <img src="img/vector.jpg" width="200" height="200">
+<img src="img/raster.jpg" width="200" height="200">               <img src="img/vector.jpg" width="200" height="200">
 
-[![Exemplo de Raster](/img/raster.jpg "Raster")]: # 
+## Como funciona as cores na arte digital:
 
-[![Exemplo de Vetor](/img/vector.jpg "Vetor")]: # 
+#### A fonte de luz de um monitor ou tela pode criar qualquer cor que você possa imaginar com a combinação de diferentes tonalidades de vermelho, verde e azul. Os nossos olhos são capazes de identificar cerca de 1 milhão de cores que terão suas variações de ondas percebidas pelo cérebro. Entretanto, o que é mais curioso é que essa enorme quantidade tons deriva de apenas 12 classificadas como primárias, secundárias e terciárias. Elas fazem parte do círculo cromático.
 
+## Densidade das Cores através do Bits
+
+#### Pegando um exemplo do modo RGB: o sensor da câmera capta a luz, separa os canais vermelho, verde e azul e traduz a luminância de cada um que chegou até ele para código binário (zeros e uns). É a quantidade de código binário gerado pelo sensor é a que vai determinar a variação de tonalidades que aquele arquivo tem.
+
+<img src="img/colorCode.jpg" width="100" height="200">
