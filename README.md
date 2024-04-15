@@ -30,6 +30,8 @@ Gustavo da Silva Rezende e Daniel Ryu
 
 ## Modelos de cores em Imagens Digitais:
 
-1. RGB: O modelo de cores RGB é um sistema de cores aditivo (as cores são formadas adicionando luz a cada uma das cores intervenientes no processo)., inspirado na teoria de visão colorida tricromática e tem como base as cores: vermelho, verde e azul. Este modelo pode produzir até 16,7 milhões de cores. Este é o modelo mais usado e conhecido.
-2. CMKY:
-3. LAB:
+#### 1. RGB: O modelo de cores RGB é um sistema de cores aditivo, em que as cores são formadas adicionando luz a cada uma das cores intervenientes no processo, inspirado na teoria de visão colorida tricromática e tem como base as cores: vermelho, verde e azul. Este modelo pode produzir até 16,7 milhões de cores. Este é o modelo mais usado e conhecido.
+
+#### 2. CMKY: O modelo CMYK tem como base as cores primárias (azul ciano, magenta, amarelo) e o preto. É usado geralmente em impressoras e fotocopiadoras. Neste modelo cada cor é descrita com uma percentagem (de 0% a 100%), sendo que quanto maior for a percentagem, mais escura a cor será. Este modelo é um modelo subtractivo de cores pois cria cores absorvendo luz.
+
+#### 3. LAB: O modelo LAB é um modelo matemático que foi criado em 1931 pela CIE (La Commision Internationale de L’Eclairage)  e foi inspirado na forma como o olho humano percepciona as cores. Em 1976, o modelo foi melhorado de forma a garantir cores mais consistentes, independentemente das características do hardware. Este modelo funciona através de um canal de luminosidade e de dois canais de cor (a e b).
